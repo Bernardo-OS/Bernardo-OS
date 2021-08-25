@@ -1,13 +1,13 @@
 #  👋  Olá, eu sou @Bernardo-OS, Bernardo de Oliveira dos Santos, 15 anos de idade, estudante do primeiro grau do ensino médio integrado ao técnico de informática no CTISM.
 
-#  👀 No que estou entereçado
+#  👀 No que estou interessado
 - Eu estou interessado em aprender programação, mais fortemente em criação de **jogos** e **sites**.
 
 #  🌱 Oque estou aprendendo 
 - estou aprendendo programação no técnico de informática integrado ao esnsino médio CTISM.
 
 #  Experiência em programação 🤓 
-- Eu tenho uma experiência básica em programação em *Arduino*, *Pyton* e *HTML*.
+- Eu tenho uma experiência básica em programação em *Arduino*, *Python* e *HTML*.
 
 #  🎨 Quais são meus hobbies? 
 1. Tocar instrumentos musicais principalmente guitarra 🎸, e estudar a música também 🎼. 
